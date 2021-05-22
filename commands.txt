@@ -1,1 +1,5 @@
 git init - To initialize the reporsitory
+git remote add origin - To connect the local reporsitory to the remote reporsitory
+git status - To check the status of the files to see if file is created or modify
+git add (filename) - to add files to local git repo
+git add . - To add the multiple files into the local git repo
