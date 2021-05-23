@@ -1,5 +1,9 @@
 git init - To initialize the reporsitory
-git remote add origin - To connect the local reporsitory to the remote reporsitory
+git remote add origin https://github.com/dvl1415/git-Basic.git - To connect the local reporsitory to the remote reporsitory
 git status - To check the status of the files to see if file is created or modify
 git add (filename) - to add files to local git repo
 git add . - To add the multiple files into the local git repo
+git commit -am or -m "" - To commit all the changes made to files
+git push origin master - To push the changes from local reporsitory ro remote repository
+git remote set-url "PASTE URL HERE" - To set the remote repo URL
+git pull origin master - to pull the changes from the remote repository to local repository
