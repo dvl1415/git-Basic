@@ -29,7 +29,5 @@ function bindData(users){
                         </tbody>        
                         `
         }
-    document.getElementById("tblUserInfo").innerHTML = tableData           
+    document.getElementById("tblUserInfo").innerHTML = tableData     
 }
-
-
